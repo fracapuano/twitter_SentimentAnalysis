@@ -1,4 +1,4 @@
-# twitter_SentimentAnalysis
+# Twitter Sentiment Analysis
 Repository for the Data Science Lab course final project. 
 
 As final project for the Data Science Lab course at Politecnico di Torino, me and my teammate for this project, Alessia Leclercq, have developed an algorithm which performs Sentiment Analysis. 
